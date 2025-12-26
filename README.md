@@ -228,7 +228,7 @@ isort app/
 
 ## License
 
-MIT License - feel free to use this project for learning and portfolio purposes.
+MIT License
 
 ## Acknowledgments
 
